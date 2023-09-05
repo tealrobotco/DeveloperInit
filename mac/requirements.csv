@@ -1,0 +1,15 @@
+Formula,Name,Source
+--cask visual-studio-code,Visual Studio Code,homebrew
+git,Git,homebrew
+--cask github,GitHub Desktop,homebrew
+--cask docker,Docker Desktop,homebrew
+wget2,Wget2,homebrew
+--cask anaconda,Anaconda,homebrew
+node,NodeJS,homebrew
+awscli,AWS CLI,homebrew
+azure-cli,Azure CLI,homebrew
+--cask google-cloud-sdk,Google Cloud CLI,homebrew
+--cask slack,Slack,homebrew
+--cask zoom,Zoom,homebrew
+--cask microsoft-teams,Microsoft Teams,homebrew
+--cask discord,Discord,homebrew

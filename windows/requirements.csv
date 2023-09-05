@@ -1,0 +1,17 @@
+ID,Name,Source
+Microsoft.WindowsTerminal,Windows Terminal,winget
+Microsoft.VisualStudioCode,Visual Studio Code,winget
+Git.Git,Git,winget
+GitHub.GitHubDesktop,GitHub Desktop,winget
+Docker.DockerDesktop,Docker Desktop,winget
+cURL.cURL,Curl,winget
+GNU.Wget2,Wget2,winget
+Anaconda.Anaconda3,Anaconda,winget
+OpenJS.NodeJS,NodeJS,winget
+Amazon.AWSCLI,AWS CLI,winget
+Microsoft.AzureCLI,Azure CLI,winget
+Google.CloudSDK,Google Cloud CLI,winget
+SlackTechnologies.Slack,Slack,winget
+Zoom.Zoom,Zoom,winget
+Microsoft.Teams,Microsoft Teams,winget
+Discord.Discord,Discord,winget
