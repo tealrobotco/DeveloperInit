@@ -36,9 +36,17 @@ You will need to download this repo. If you don't already have `git` installed, 
 4. Navigate to the repository directory
 5. Type `cd windows` and hit enter
 6. Type `setup.bat` and hit enter
-4. Type "Y" and hit enter to accept the installation list
+7. Type "Y" and hit enter to accept the installation list
+
 #### Mac
+1. Open Terminal
+2. Navigate to repository directory
+3. Type `cd mac` and hit enter
+4. type `./setup.sh` and hit enter
+5. Type "Y" and hit enter to accept the installation list
+6. You may need to enter your admin password for administrator privileges.
 
 ## Testing
 Installation was tested on:
 * Windows 11 Home
+* MacOS Venture 13.5.1
