@@ -2,6 +2,7 @@
 Everytime I get a new computer, it takes me a couple hours to get everything set up. This package presents setup scripts to help developers get started with a new computer installing common applications and developer tools. Some of the installation is opinionated with the setup tools that I prefer, but it is straightforward to customize to your liking.
 
 ## Install List
+Oh My ZSH
 Visual Studio Code
 Docker Desktop
 Anaconda3
@@ -21,6 +22,7 @@ Discord
 Windows Terminal
 
 ### Mac Only Programs
+x-code-select
 
 ## Instructions
 ### Initial Setup
