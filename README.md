@@ -2,27 +2,27 @@
 Everytime I get a new computer, it takes me a couple hours to get everything set up. This package presents setup scripts to help developers get started with a new computer installing common applications and developer tools. Some of the installation is opinionated with the setup tools that I prefer, but it is straightforward to customize to your liking.
 
 ## Install List
-Visual Studio Code
-Docker Desktop
-Anaconda3
-Git
-Wget2
-Curl
-NodeJS
-AWS CLI
-Azure CLI
-Google Cloud CLI
-Slack
-Zoom
-Microsoft Teams
-Discord
+- Visual Studio Code
+- Docker Desktop
+- Anaconda3
+- Git
+- Wget2
+- Curl
+- NodeJS
+- AWS CLI
+- Azure CLI
+- Google Cloud CLI
+- Slack
+- Zoom
+- Microsoft Teams
+- Discord
 
 ### Windows Only Programs
-Windows Terminal
+- Windows Terminal
 
 ### Mac Only Programs
-Oh My ZSH
-x-code-select
+- Oh My ZSH
+- x-code-select
 
 ## Instructions
 ### Initial Setup
