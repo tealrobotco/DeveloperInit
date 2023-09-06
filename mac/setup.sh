@@ -54,9 +54,10 @@ fi
 
 # Add homebrew to path if line is not already there
 echo "Adding Homebrew to your path and zshrc file."
-LINE='export PATH=/opt/homebrew/bin:$PATH'
+LINE='export PATH=/opt/homebrew/bin:/opt/homebrew/anaconda3/bin:$PATH'
 grep -qF -- "$LINE" "$HOME/.zshrc" || echo "$LINE" >> "$HOME/.zshrc" || exit 1
-PATH=/opt/homebrew/bin:$PATH
+grep -qF -- "$LINE" "$HOME/.bash_profile" || echo "$LINE" >> "$HOME/.bash_profile" || exit 1
+PATH=/opt/homebrew/bin:/opt/homebrew/anaconda3/bin:$PATH
 
 # Install applications in requirements.csv
 {
