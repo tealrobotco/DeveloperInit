@@ -1,5 +1,6 @@
 ID,Name,Source
 Microsoft.WindowsTerminal,Windows Terminal,winget
+JanDeDobbeleer.OhMyPosh,OhMyPosh,winget
 Microsoft.VisualStudioCode,Visual Studio Code,winget
 Git.Git,Git,winget
 GitHub.GitHubDesktop,GitHub Desktop,winget

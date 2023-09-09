@@ -19,6 +19,12 @@ Everytime I get a new computer, it takes me a couple hours to get everything set
 
 ### Windows Only Programs
 - Windows Terminal
+- Oh My Posh
+
+* Note: TO get Oh My Posh working properly, you'll need a compatiable font. I would suggest the Nerd Fonts here:
+https://www.nerdfonts.com/font-downloads
+
+Once you download the font, open powershell, got to settings, and change the default font under the Windows Powershell profile.
 
 ### Mac Only Programs
 - Oh My ZSH
